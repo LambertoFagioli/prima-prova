@@ -1,2 +1,2 @@
 # prima-prova
-Questo è solamente insegnamento
+Questo è solamente per imparare ad usare github
